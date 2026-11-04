@@ -1,0 +1,8 @@
+PASOS
+1. Copia la carpeta lib/ dentro de tu proyecto (reemplaza main.dart).
+2. Reemplaza android/app/src/main/AndroidManifest.xml (ajusta android:label si quieres)
+   y copia android/app/src/main/res/xml/file_paths.xml.
+3. Agrega las dependencias de pubspec_dependencias.yaml a tu pubspec.yaml y ejecuta: flutter pub get
+4. En android/app/build.gradle (o build.gradle.kts): compileSdk 34 (o mayor) y minSdk 21 (o mayor).
+5. Si tu applicationId no es com.example.practica08, cambia userAgentPackageName en lib/screens/mapa_screen.dart.
+6. flutter run  (en un dispositivo real; el emulador necesita GPS simulado y cámara virtual).

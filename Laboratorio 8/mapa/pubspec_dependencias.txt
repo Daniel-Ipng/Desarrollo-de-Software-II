@@ -1,0 +1,11 @@
+# Pega esto dentro de "dependencies:" en pubspec.yaml (debajo de flutter: sdk: flutter)
+# Se reemplaza google_maps_flutter por flutter_map (gratis, sin API key).
+
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  camera: ^0.10.5+9
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  permission_handler: ^11.2.0

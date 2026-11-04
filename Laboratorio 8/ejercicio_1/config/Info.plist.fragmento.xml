@@ -1,0 +1,7 @@
+<!-- ios/Runner/Info.plist  (pegar dentro de <dict>) -->
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Esta app necesita tu ubicación para mostrar tu posición en el mapa y registrar tu ruta.</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Esta app puede registrar tu ruta incluso en segundo plano.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>Necesitamos tu ubicación para funciones de geocercado (geofencing).</string>

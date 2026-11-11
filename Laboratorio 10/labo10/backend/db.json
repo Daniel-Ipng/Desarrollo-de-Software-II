@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "d3c4f3f2-0381-4452-8975-2ea259358844",
+      "name": "Juan Daniel Masco Rodriguez",
+      "email": "225423@unsaac.edu.pe",
+      "passwordHash": "554cea2e426ad434f34c8ceb192f7804:9491e4e9cedcfbbf0419aad51807550b9f682946199b6118cbe60685393c6efe983bb70ff832fff3a6024d86db9a47c7b6d4a8396c91ee3157793d14be936356"
+    },
+    {
+      "id": "1dd2ae8d-9992-4e9f-827f-0587ecdcd61b",
+      "name": "Juan Daniel",
+      "email": "danieloficialaea@gmail.com",
+      "passwordHash": "2722e027a2eae344802831ff9f30634a:d7c1f29469fd0ffd935d326d1ec3641a85826065cbb9831c4150fff583e5fd2e4a2666f6f2b29e941ebd837359faec8d355f57b8d6012972fb0ea0340aa7ce5e"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "userId": "d3c4f3f2-0381-4452-8975-2ea259358844",
+      "title": "wa",
+      "description": "",
+      "completed": true,
+      "createdAt": "2026-11-09T22:28:21.504Z"
+    },
+    {
+      "id": 2,
+      "userId": "d3c4f3f2-0381-4452-8975-2ea259358844",
+      "title": "jjfjf",
+      "description": "",
+      "completed": false,
+      "createdAt": "2026-11-09T22:28:25.625Z"
+    },
+    {
+      "id": 3,
+      "userId": "1dd2ae8d-9992-4e9f-827f-0587ecdcd61b",
+      "title": "hola",
+      "description": "Q",
+      "completed": false,
+      "createdAt": "2026-11-09T22:55:21.736Z"
+    }
+  ],
+  "refreshTokens": [],
+  "nextTaskId": 4
+}

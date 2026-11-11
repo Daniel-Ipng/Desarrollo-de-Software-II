@@ -1,0 +1,12 @@
+{
+  "name": "todo-api-practica10",
+  "version": "1.0.0",
+  "description": "API REST con JWT para el Ejercicio 2 (Práctica 10 - Flutter)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
